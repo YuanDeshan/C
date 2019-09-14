@@ -784,7 +784,6 @@ int main(){//
 	//}
 	//printf("x=%d, y=%d\n", x, y);
 
-#if 0
 		int x, y;
 	scanf("%d", &x);
 	if (x < 0){
@@ -799,4 +798,3 @@ int main(){//
 		printf("x=%d,y=%d\n", x, y);
 	return 0;
 }
-#endif
