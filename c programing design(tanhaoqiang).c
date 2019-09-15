@@ -769,20 +769,7 @@ int main(){//
 	default:printf("enter data error!\n");
 	}*/
 	
-	//int x, y;
-	//scanf("%d", &x);
-	//if (x >= 0){
-	//	if (x >= 0){
-	//		y = 1;
-	//	}
-	//	else{
-	//		y = 0;
-	//	}
-	//}
-	//else{
-	//	y = -1;
-	//}
-	//printf("x=%d, y=%d\n", x, y);
+	
 
 		int x, y;
 	scanf("%d", &x);
