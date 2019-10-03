@@ -37,3 +37,16 @@ int My_strlen(char* str)
         return 1+My_Strlen(str+1);
     }
 }
+
+
+char* My_Strcpy(char* destination,const char* source)
+{
+ 	char* ret=destination;
+    while(*source!='\0')
+    {
+       *destination=*source;
+        ++source;
+        ++destination;
+    }
+    return ret;
+}
