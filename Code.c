@@ -50,3 +50,15 @@ char* My_Strcpy(char* destination,const char* source)
     }
     return ret;
 }
+
+char* My_Strcat(char* destination,cosnt char* source)
+{
+ 	for(int i=0;*destination[i]!='\0';++i)
+    {
+        for(int j=0;*source[j]!='\0';++j)
+        {
+            destination[i]=source[j];
+        }
+    }
+    return destination;
+}
