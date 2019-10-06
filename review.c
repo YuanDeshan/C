@@ -667,16 +667,6 @@ int main()
 }
 #endif
 
-#if 0
-#define MAX 100
 
-int main()
-{
-#ifdef MAX
-	printf("hehe\n");
-#endif
-	return 0;
-}
-#endif
 
 
