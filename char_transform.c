@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-int main1()
+int main()
 {
 	int ch;
 	printf("ÇëÊäÈëÒ»¸ö×Ö·û\n");
