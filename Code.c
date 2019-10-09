@@ -68,4 +68,3 @@ char* My_Strcat(char* destination, const char* source)
 	}
 	return ret;
 }
-}
