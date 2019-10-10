@@ -667,6 +667,19 @@ int main()
 }
 #endif
 
-
+int main()
+{
+	int a=1;
+	char* p=(char*)&a;
+	if(*p==1)
+	{
+		printf("The system is Little_Endian!\n");
+	}
+	else
+	{
+		printf("The system is Big_Endian!\n");
+	}
+	return 0;
+}
 
 
