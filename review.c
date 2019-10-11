@@ -667,6 +667,7 @@ int main()
 }
 #endif
 
+#if 0
 int main()
 {
 	int a=1;
@@ -681,5 +682,6 @@ int main()
 	}
 	return 0;
 }
+#endif
 
 
