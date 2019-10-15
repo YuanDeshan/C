@@ -3,7 +3,7 @@
 #include <math.h>
 #include <stdlib.h>
 #include <time.h>
-//void action1(int x, int y){
+void action1(int x, int y){
 //	printf("x+y=%d\n,x+y");
 //}
 //void action2(int x, int y){
