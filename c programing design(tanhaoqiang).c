@@ -30,7 +30,7 @@ void action1(int x, int y){
 //	int a = x*y;
 //	n = a / fun(x, y);
 //	return(n);
-//}
+}
 
 void menu(){
 	printf("      *²ÂÊı×ÖÓÎÏ·*    \n");
