@@ -742,7 +742,7 @@ int main(){//
 			printf("%d is not", year);
 		}
 	}*/
-	/*void action1(a, b), action2(int, int);
+	void action1(a, b), action2(int, int);
 	char ch;
 	int a = 15, b = 23;
 	ch = getchar();
@@ -755,9 +755,9 @@ int main(){//
 		break;
 	default:putchar("\n");
 	}
-	return  0;*/
+	return  0;
 
-	/*char grade;
+	char grade;
 	scanf("%c", &grade);
 	printf("Your score:\n");
 	switch (grade){
@@ -767,7 +767,7 @@ int main(){//
 	case 'C':printf("60~69\n");
 	case 'D':printf("<60\n");
 	default:printf("enter data error!\n");
-	}*/
+	}
 	
 	
 
