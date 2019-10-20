@@ -742,7 +742,8 @@ int main(){//
 			printf("%d is not", year);
 		}
 	}*/
-	void action1(a, b), action2(int, int);
+	
+	/*void action1(a, b), action2(int, int);
 	char ch;
 	int a = 15, b = 23;
 	ch = getchar();
