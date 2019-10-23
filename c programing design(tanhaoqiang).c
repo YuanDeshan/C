@@ -631,7 +631,7 @@ int main(){//
 	}*/
 	
 	
-	/*int a,s;
+	int a,s;
 	scanf("%d", &a);
 	if (a <= 1000){
 		s = sqrt(a);
