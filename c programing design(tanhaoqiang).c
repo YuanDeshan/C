@@ -641,7 +641,7 @@ int main(){//
 		printf("enter data error!\n");
 	}
 	
-	*/
+	
 	//int a, b, c,t;
 	//scanf("%d %d %d",&a,&b,&c);
 	//if (a < b){
