@@ -38,7 +38,7 @@ int My_strlen(char* str)
     }
 }
 
-
+//字符串拷贝
 char* My_Strcpy(char* destination,const char* source)
 {
  	char* ret=destination;
